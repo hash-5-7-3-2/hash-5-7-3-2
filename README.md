@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Harsh Merchant</h1>
 <h3 align="center">A Full Stack Web developer and an Inquisitive Engineer</h3>
 
-- 🔭 I’m currently working on **Dashboard Application for Machine Condition Analysis and Troubleshooting**
+- 🔭 I’m currently learning Flutter
 
 - 📫 Reach me at [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='30'>](mailto:harsh54452340@gmail.com) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/harsh-merchant-2aa477218/) 
 
