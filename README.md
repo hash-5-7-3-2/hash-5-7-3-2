@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Harsh Merchant</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer</h3>
 
-- 🎓 Currently pursuing an MSc in Data Science at King's College London.
+- 🎓 MSc in Data Science with Distinction at King's College London.
 - 🔭 I’m currently working on various data science and machine learning projects.
 - 🌱 I’m continuously learning and staying updated with the latest advancements in data science and machine learning.
 - 📫 Reach me at 
