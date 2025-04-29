@@ -20,6 +20,9 @@
 
 ## 🧩 Featured Projects
 
+- 📈 **[Mechanic Centre Revenue Prediction](https://github.com/hash-5-7-3-2/mechanic-centre-revenue-prediction)**  
+  Built machine learning models to predict future revenues for a mechanic centre, improving financial forecasting accuracy with regression modeling and hyperparameter tuning.
+
 - 📊 **[Olympics Medal Analysis](https://medium.com/@harsh54452340/data-mining-and-analysis-of-tokyo-2020-olympics-medals-dataset-c9869dd4ca04)**  
   Visualized trends in medal distribution across nations using Python, Seaborn & Matplotlib.
 
